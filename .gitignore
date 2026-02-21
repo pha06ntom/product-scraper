@@ -1,0 +1,19 @@
+
+# Go
+bin/
+*.exe
+*.out
+*.test
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+
+# Local configs and artifacts
+configs/local.yaml
+dump.csv
+*.log

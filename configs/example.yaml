@@ -1,0 +1,9 @@
+proxy: "http://USER:PASS@PROXY_HOST:PORT"
+address: "Москва, Тверская 1"
+categories:
+  - "https://lenta.com/catalog/molochnye-produkty/"
+  - "https://lenta.com/catalog/khleb-i-vypechka/"
+out_csv: "dump.csv"
+headless: true
+timeout_sec: 90
+scrolls: 6
