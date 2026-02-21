@@ -15,5 +15,4 @@ bin/
 
 # Local configs and artifacts
 configs/local.yaml
-dump.csv
 *.log
