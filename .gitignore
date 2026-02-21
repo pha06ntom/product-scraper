@@ -15,4 +15,8 @@ bin/
 
 # Local configs and artifacts
 configs/local.yaml
+<<<<<<< HEAD
 *.log
+=======
+*.log
+>>>>>>> 69f91a0 (Local changes before rebase)
